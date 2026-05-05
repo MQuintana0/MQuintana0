@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Miguel
 
-<!--
-**MQuintana0/MQuintana0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Software y desarrollador backend.  
+Me apasiona la programación, especialmente cuando implica entender cómo funcionan las cosas desde cero.
 
-Here are some ideas to get you started:
+Probablemente no conozcas muchas personas igual de “intensas” con esto:  
+me gusta desarrollar proyectos sin frameworks, diseñando toda la lógica por mi cuenta, solo por el reto y el aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+También me gustan los videojuegos.  
+Soy malísimo jugando, pero eso no me detiene.
+
+De hecho, ambas pasiones me llevaron a plantearme algo bastante ambicioso:  
+crear un videojuego sin usar motor gráfico, construyéndolo desde cero con C++.
+
+¿Es una locura? Probablemente.  
+¿Es necesario? Para nada.
+Pero ahí está el punto.
+
+Programar es mi hobby.  
+Es lo que hago para relajarme…  
+aunque casi siempre termine más estresado que antes.
+
+---
+
+## 🛠️ Herramientas del caos
+
+Las cosas que uso cuando decido no complicarme tanto la vida:
+
+- Node.js / TypeScript
+- PHP (Laravel)
+- NestJS
+- MySQL
