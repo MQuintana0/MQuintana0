@@ -20,6 +20,14 @@ Programar es mi hobby.
 Es lo que hago para relajarme…  
 aunque casi siempre termine más estresado que antes.
 
+## 📚 Lectura
+
+Me gusta leer.
+
+A veces novelas para relajarme,  
+a veces documentación para entender cómo funciona algo…  
+y terminar abriendo más preguntas que respuestas.
+
 ---
 
 ## 🛠️ Herramientas del caos
