@@ -5,6 +5,10 @@ Me apasiona la programación, especialmente cuando implica entender cómo funcio
 
 Probablemente no conozcas muchas personas igual de “intensas” con esto:  
 me gusta desarrollar proyectos sin frameworks, diseñando toda la lógica por mi cuenta, solo por el reto y el aprendizaje.
+No me gusta no saber como funciona algo.
+Hasta que no entiendo el porqué, no me siento tranquilo.
+
+## 🎮 Videojuegos
 
 También me gustan los videojuegos.  
 Soy malísimo jugando, pero eso no me detiene.
@@ -24,11 +28,9 @@ aunque casi siempre termine más estresado que antes.
 
 Me gusta leer.
 
-A veces novelas para relajarme,  
+A veces novelas para relajarme, sobre todo de fantasía. 
 a veces documentación para entender cómo funciona algo…  
 y terminar abriendo más preguntas que respuestas.
-
----
 
 ## 🛠️ Herramientas del caos
 
@@ -38,3 +40,6 @@ Las cosas que uso cuando decido no complicarme tanto la vida:
 - PHP (Laravel)
 - NestJS
 - MySQL
+
+## 📫 Contacto
+Email: quintana.simanca@gmail.com
