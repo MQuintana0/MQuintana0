@@ -15,4 +15,27 @@ I am a Systems Engineering student, currently finishing my degree at the Univers
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, 🎮​ playing video games.
 - 📫 Reach out to me at: quintana.simanca@gmail.com
 
+## Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=java,js,spring,nestjs,mysql,postgres,cpp,git,linux&perline=9"
+      alt="Tech Stack"
+    />
+  </a>
+</p>
+
+<details>
+  <summary><strong>More details</strong></summary>
+  <br>
+
+  <p align="left">
+    <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  </p>
+</details>
+
 ![snake](./github-contribution-grid-snake.svg)
