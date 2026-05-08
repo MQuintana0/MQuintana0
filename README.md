@@ -1,45 +1,16 @@
-# 👋 Hola, soy Miguel
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<h1 align="center"><b>Hi , I'm Miguel Quintana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy estudiante de Ingeniería de Software y desarrollador backend.  
-Me apasiona la programación, especialmente cuando implica entender cómo funcionan las cosas desde cero.
+***About me***
 
-Probablemente no conozcas muchas personas igual de “intensas” con esto:  
-me gusta desarrollar proyectos sin frameworks, diseñando toda la lógica por mi cuenta, solo por el reto y el aprendizaje.
-No me gusta no saber como funciona algo.
-Hasta que no entiendo el porqué, no me siento tranquilo.
-
-## 🎮 Videojuegos
-
-También me gustan los videojuegos.  
-Soy malísimo jugando, pero eso no me detiene.
-
-De hecho, ambas pasiones me llevaron a plantearme algo bastante ambicioso:  
-crear un videojuego sin usar motor gráfico, construyéndolo desde cero con C++.
-
-¿Es una locura? Probablemente.  
-¿Es necesario? Para nada.
-Pero ahí está el punto.
-
-Programar es mi hobby.  
-Es lo que hago para relajarme…  
-aunque casi siempre termine más estresado que antes.
-
-## 📚 Lectura
-
-Me gusta leer.
-
-A veces novelas para relajarme, sobre todo de fantasía. 
-a veces documentación para entender cómo funciona algo…  
-y terminar abriendo más preguntas que respuestas.
-
-## 🛠️ Herramientas del caos
-
-Las cosas que uso cuando decido no complicarme tanto la vida:
-
-- Node.js / TypeScript
-- PHP (Laravel)
-- NestJS
-- MySQL
-
-## 📫 Contacto
-Email: quintana.simanca@gmail.com
+I am a Systems Engineering student, currently finishing my degree at the University of Córdoba, Colombia. I have experience with programming languages such as Java and JavaScript, and I work with frameworks like Spring Boot and NestJS, with a strong focus on backend development. I also have experience working with MySQL databases.
+* **I am interested in collaborating on projects related to Backend development, API design and development, Database-driven applications and Practical software solutions that solve real-world problemsg**
+- 🌱 I’m currently learning ...
+  - C++
+  - PostgreSQL
+- 👯 I am also open to collaborating on open source projects.
+- Outside tech, 📖 I love to read novels, 🎵 listen to music, 🎮​ playing video games.
+- 📫 Reach out to me at: quintana.simanca@gmail.com
