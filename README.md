@@ -15,7 +15,7 @@ I am a Systems Engineering student, currently finishing my degree at the Univers
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, 🎮​ playing video games.
 - 📫 Reach out to me at: quintana.simanca@gmail.com
 
-## Tech Stack
+## <img src="./fire.gif" width="30">&nbsp;Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
