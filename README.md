@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hi , I'm Miguel Quintana </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-### ***About me***
+### <img src="https://emojiterra.com/data/animated-emoji/2728.gif" width="30">&nbsp;***About me***
 
 I am a Systems Engineering student, currently finishing my degree at the University of Córdoba, Colombia. I have experience with programming languages such as Java and JavaScript, and I work with frameworks like Spring Boot and NestJS, with a strong focus on backend development. I also have experience working with MySQL databases.
 * **I am interested in collaborating on projects related to backend development, API design, database-driven applications, and practical software solutions that solve real-world problems.**
