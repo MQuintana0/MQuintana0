@@ -10,6 +10,7 @@ I am a Systems Engineering student, currently finishing my degree at the Univers
 * **I am interested in collaborating on projects related to backend development, API design, database-driven applications, and practical software solutions that solve real-world problems.**
 - 🌱 I’m currently learning ...
   - C++
+  - C#
 - 👯 I am also open to collaborating on open source projects.
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, 🎮​ playing video games.
 - 📫 Reach out to me at: quintana.simanca@gmail.com
@@ -19,7 +20,7 @@ I am a Systems Engineering student, currently finishing my degree at the Univers
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=java,js,spring,nestjs,mysql,postgres,cpp,git,linux&perline=9"
+      src="https://skillicons.dev/icons?i=java,js,spring,nestjs,mysql,postgres,cpp,cs,git,linux&perline=9"
       alt="Tech Stack"
     />
   </a>
