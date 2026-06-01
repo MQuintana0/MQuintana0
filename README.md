@@ -11,6 +11,7 @@ I am a Systems Engineering student, currently finishing my degree at the Univers
 - 🌱 I’m currently learning ...
   - C++
   - C#
+  - .Net
 - 👯 I am also open to collaborating on open source projects.
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, 🎮​ playing video games.
 - 📫 Reach out to me at: quintana.simanca@gmail.com
